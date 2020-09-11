@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.iml
+
+# IntelliJ
+.idea/
+/out/
+/META-INF/
+
+## File-based project format:
+*.ipr
+*.iws
